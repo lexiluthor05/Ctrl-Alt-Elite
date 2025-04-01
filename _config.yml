@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Elexiah Smart / Ctrl+Alt+Elite: Level Up Your Computing Skills with the Command Line"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : &name "Elexiah Smart"
+description              : &description "This site was developed to house all necessary resources for students participating in the T3-CIDERS outreach workshop."
+url                      : https://lexiluthor05.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "/Ctrl-Alt-Elite" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Elexiah Smart"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "T3-CIDERS Logistics Coordinator"
+  location         : "Old Dominion University"
+  employer         : # left blank
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # left empty 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
