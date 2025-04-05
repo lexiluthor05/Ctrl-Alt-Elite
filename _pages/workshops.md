@@ -11,4 +11,4 @@ The first workshop is set to be held at Norview High School on Wednesday, April 
 
 If you are interested in this workshop being held at your school, reach out to us via [t3ciders@gmail.com](t3ciders@gmail.com).
 
-<img src='/images/WorkshopFlyer.JPG'>
+<img src='/images/OutreachWorkshopFlyer.png'>
