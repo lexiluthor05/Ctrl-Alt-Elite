@@ -7,6 +7,12 @@
 # server process.
 
 # Basic Site Settings
+plugins:
+  - jekyll-remote-theme
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 locale                   : "en-US"
 title                    : "Elexiah Smart / T3-CIDERS / Ctrl+Alt+Elite"
 title_separator          : "-"
@@ -84,8 +90,6 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-theme			 : minimal-mistakes-jekyll
-minimal-mistakes-skin    : neon
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -185,6 +189,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - assets
 keep_files:
   - .git
   - .svn
