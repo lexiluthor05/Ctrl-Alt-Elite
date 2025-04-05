@@ -4,7 +4,7 @@ title: "Ctrl + Alt + Elite: Level Up Your Skills with the Command Line"
 author_profile: true
 ---
 
-This website was developed to house all necessary materials and resources needed for students to participate in the T3-CIDERS outreach workshop, created by Elexiah Smart under the guidance of Dr. Wirawan Purwanto, Dr. Peng Jiang, Dr. Mohan Yang, and delivered with the assistance of Dr. Wirawan Purwanto, Chunyu Hu, and Ted Birkland.
+This website was developed to house all necessary materials and resources needed for students to participate in the T3-CIDERS outreach workshop, created by Elexiah Smart under the guidance of Dr. Wirawan Purwanto, Dr. Peng Jiang, Dr. Mohan Yang.
 
 
 What is T3-CIDERS?

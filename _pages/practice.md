@@ -24,7 +24,7 @@ Khan Academy
 There are several courses under the Computing section of Khan Academy that you can use to learn all sorts of coding languages! Some courses of interest:
 * Intro to Computer Science - Python
 * Computer programming - JavaScript and the web
-(Khan Academy](https://www.khanacademy.org/computing)
+[Khan Academy](https://www.khanacademy.org/computing)
 
 WHRO Great Computer Challenge (GCC)
 ------
