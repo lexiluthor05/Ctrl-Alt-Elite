@@ -14,7 +14,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 
 locale                   : "en-US"
-title                    : "Elexiah Smart / Ctrl+Alt+Elite"
+title                    : "Ctrl+Alt+Elite"
 title_separator          : "-"
 name                     : &name "Elexiah Smart"
 description              : &description "This site was developed to house all necessary resources for students participating in the T3-CIDERS outreach workshop."
