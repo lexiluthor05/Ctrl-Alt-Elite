@@ -68,7 +68,3 @@ Necessary Materials & Resources
 * Google Slides Presentation: [How to Use the Command Line](https://docs.google.com/presentation/d/17vu6vvsbNUQ65irCu921e1luyEiU92aWmMy_3Yjzrxc/edit?usp=sharing).
 * Online emulated Linux environment: [JSLinux](https://bellard.org/jslinux/).
 * Online step-by-step demo: [BanditLabs | OverTheWire](https://overthewire.org/wargames/bandit/).
-
-
-
-*This site was developed using the Academic Pages template via GitHub.*

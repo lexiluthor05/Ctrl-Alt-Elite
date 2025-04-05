@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "T3-CIDERS / Ctrl+Alt+Elite"
+title                    : "Elexiah Smart / T3-CIDERS / Ctrl+Alt+Elite"
 title_separator          : "-"
 name                     : &name "Elexiah Smart"
 description              : &description "This site was developed to house all necessary resources for students participating in the T3-CIDERS outreach workshop."
