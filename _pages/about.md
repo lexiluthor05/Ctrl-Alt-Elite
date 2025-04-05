@@ -45,12 +45,12 @@ Why should I learn the CLI? How does it benefit me?
 * Is used in website building (like this very website!)
 * is important for future career fields, like
 
-| Career Field         | Average Starting Salary |
-| -------------------- | ----------------------- |
-| Cybersecurity        | $70,000 to $85,000      |
-| Data Science         | $100,000 to $125,000    |
-| Software Development | $83,937 to $99,405      |
-| Cloud Computing      | $73,320                 |
+| Career Field | Average Starting Salary |
+| ------------ | ----------------------- |
+| Cybersecurity | $70,000 to $85,000 |
+| Data Science | $100,000 to $125,000 |
+| Software Development | $83,937 to $99,405 |
+| Cloud Computing | $73,320 |
 *Data collected via Google’s Gemini AI Overview.*
 
 
