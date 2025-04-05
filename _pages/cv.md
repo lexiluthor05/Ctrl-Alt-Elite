@@ -78,8 +78,9 @@ find [path] -name "filename" – Search for a file by name.
 sort [file] – Sort lines in a file.  
 uniq [file] – Remove duplicate lines.  
 diff [file1] [file2] – Compare two files.  
-	* -q - Outputs only when the files differ.
-	* -s - Outputs when the files are the same.
+
+* -q - Outputs only when the files differ.
+* -s - Outputs when the files are the same.
 
 
 Remote Access / Secure Shell (SSH) Connection
