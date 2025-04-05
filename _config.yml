@@ -14,7 +14,7 @@ name                     : &name "Elexiah Smart"
 description              : &description "This site was developed to house all necessary resources for students participating in the T3-CIDERS outreach workshop."
 url                      : https://lexiluthor05.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/Ctrl-Alt-Elite" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lexiluthor05/Ctrl-Alt-Elite"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
