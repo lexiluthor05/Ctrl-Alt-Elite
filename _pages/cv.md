@@ -9,9 +9,6 @@ redirect from:
 
 {% include base_path %}
 
-Getting Started With the CLI
-======
-
 Necessary Materials & Resources
 ------
 * Google Slides Presentation: [How to Use the Command Line](https://docs.google.com/presentation/d/17vu6vvsbNUQ65irCu921e1luyEiU92aWmMy_3Yjzrxc/edit?usp=sharing).
@@ -23,14 +20,19 @@ Step-by-Step Set Up Guide for JSLinux
 ------
 1. Open the link for JSLinux in a new tab.
 2. For the option "Alpine Linux 3.12.0 - Console", hit the "Click here" button. This will open the emulated environment that oyu can work within. The window is expandable, so make sure to adjust it to a comfortable width for working!
-*You can now run most Unix CLI command in this window! In order to continue with the demo, follow these next set of steps. However, if you wanted to play with it yourself, stop here.*
+
+*You can now run most Unix CLI commands in this window! In order to continue with the demo, follow these next set of steps. However, if you wanted to play with it yourself, stop here.*
+
 3. Create a new directory, name it something line "CLI Demo".
 4. Move into that new directory.
 5. Run the following script:
 	wget https://t3-ciders.gitlab.io/files/unix-demo-hs.tar.gz
+
 *This downloaded the preset demonstration that has been created for the workshop. It is mostly a collection of files and directories to be played with later.*
+
 6. Run the following script:
 	tar xvf unix-demo-hs.tar.gz
+
 *This unzipped that file so you can access those files and directories for the remainder of the time!
 
 **Do not close the JSLinux window during the duration of the workshop or intended use. It will not save your progress, and you will have to restart.**
