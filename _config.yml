@@ -12,8 +12,8 @@ title                    : "T3-CIDERS / Ctrl+Alt+Elite"
 title_separator          : "-"
 name                     : &name "Elexiah Smart"
 description              : &description "This site was developed to house all necessary resources for students participating in the T3-CIDERS outreach workshop."
-url                      : https://Ctrl-Alt-Elite.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+url                      : https://lexiluthor05.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "/Ctrl-Alt-Elite" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
