@@ -85,8 +85,8 @@ ssh [user]@[server] -p [port] – Securely connect to a remote server.
 
 Quick Tips
 ------
-Use Tab to auto-complete file/directory names.  
-Use clear to clear the screen.
-Use exit to end an SSH connection.
-Use the up/down arrows to navigate the terminal.
+* Use Tab to auto-complete file/directory names.  
+* Use clear to clear the screen.
+* Use exit to end an SSH connection.
+* Use the up/down arrows to navigate the terminal.
 
