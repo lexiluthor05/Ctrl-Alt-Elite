@@ -2,7 +2,7 @@
 permalink: /
 title: "Ctrl + Alt + Elite: Level Up Your Skills with the Command Line"
 author_profile: true
-# redirect_from:
+redirect_from:
   - /about
 ---
 
