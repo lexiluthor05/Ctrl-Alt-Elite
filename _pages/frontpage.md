@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ctrl + Alt + Elite: Level Up Your Skills with the Command Line"
+title: "Ctrl + Alt + Elite: Level Up Your Skills With the Command Line"
 author_profile: true
 ---
 
