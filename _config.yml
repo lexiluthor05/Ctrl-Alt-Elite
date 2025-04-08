@@ -182,7 +182,7 @@ exclude:
   - tmp
   - vendor
   - assets/css
-  - assets/js
+  - assets/js/collapse.js
 keep_files:
   - .git
   - .svn
