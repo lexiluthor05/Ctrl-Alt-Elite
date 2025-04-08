@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-plugins:
-  - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# plugins:
+  # - jekyll-remote-theme
+# remote_theme           : "mmistakes/minimal-mistakes"
+# minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 locale                   : "en-US"
@@ -181,7 +181,6 @@ exclude:
   - README
   - tmp
   - vendor
-  - assets
 keep_files:
   - .git
   - .svn
