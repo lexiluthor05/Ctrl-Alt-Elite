@@ -181,8 +181,7 @@ exclude:
   - README
   - tmp
   - vendor
-  - assets/css
-  - assets/js/main.min.js
+  - assets
 keep_files:
   - .git
   - .svn
